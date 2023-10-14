@@ -33,7 +33,7 @@ p {
 }
 
 .ui-menu-color-download {
-    background-color: #dbdcb5;
+    background-color: #3b7a57;
 }
 
 .ui-menu-color-home {
@@ -177,7 +177,7 @@ header {
 /* ----------------------------------------Footer */
 
 footer {
-    background-color: #dbdcb5;
+    background-color: #3b7a57;
     color: #fafafa;
     min-height: 100px;
     margin: 0;
