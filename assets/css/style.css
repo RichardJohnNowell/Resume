@@ -8,10 +8,6 @@ p {
     width: 88%;
 }
 
-.bg-color-contact {
-    background-color: #fefdfa;
-}
-
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
@@ -44,7 +40,7 @@ p {
     background-color: #95a9fc;
 }
 
-/* ----------------------------------------Special paddings/margins/text */
+/* ----------------------------------------paddings/margins/text */
 
 h1,
 h2,
@@ -90,7 +86,6 @@ h4 {
 header {
     margin: 0;
 }
-
 
 .heading {
     margin-left: 50px;
@@ -167,7 +162,7 @@ header {
     letter-spacing: 2px;
 }
 
-/*--------------------------------------------Hover.css*/
+/*--------------------------------------------Hover*/
 
 .hvr-sweep-to-bottom:before {
     background: #010203;
@@ -181,17 +176,6 @@ footer {
     color: #fafafa;
     min-height: 100px;
     margin: 0;
-}
-
-.cv-pdf i {
-    font-size: 16px;
-    color: #fafafa;
-    text-align: center;
-    padding-left: 5px;
-}
-
-.cv-pdf i:hover {
-    color: #e84610;
 }
 
 .social-links {
