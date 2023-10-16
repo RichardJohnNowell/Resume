@@ -71,14 +71,16 @@ h4 {
     display: table-cell;
     padding: 0 30px 30px;
     float: none;
+    color: #010203;
 }
 
 .history-heading,
 .section-heading {
     font-family: "Nunito Sans", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     margin-top: 25px;
     margin-bottom: 40px;
+    color: #010203;
 }
 
 /*--------------------------------------------Heading*/
@@ -321,11 +323,11 @@ footer {
 /*-----------------------------------------Alignings */
 
 #cyber-badge {
-    align: center;
+    text-align: center;
 }
 
 #secure-form {
-    align: center;
+    text-align: center;
 }
 
 /*-----------------------------------------End */
