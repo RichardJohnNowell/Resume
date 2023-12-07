@@ -166,17 +166,9 @@ header {
 
 footer {
     background-color: #3b7a57;
-    color: #fafafa;
     min-height: 100px;
     margin: 0;
 }
-
-#websitecredit {
-    color: #fafafa;
-    font-size: 0.8rem;
-    padding-bottom: 0.5rem;
-    text-align: center;
-  }
 
 /* ----------------------------------------Three Reasons */
 
