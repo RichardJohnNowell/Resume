@@ -171,29 +171,12 @@ footer {
     margin: 0;
 }
 
-.social-links {
-    padding-bottom: 15px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 16px;
-    line-height: 7px;
-    text-align: center;
+#websitecredit {
     color: #fafafa;
-    background: #8f8f8f;
-}
-
-.social-links li a i:hover {
-    background: #e84610;
-}
-
-#footer-details {
-    padding: 20px;
-}
+    font-size: 0.8rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+  }
 
 /* ----------------------------------------Three Reasons */
 
