@@ -296,6 +296,9 @@ footer {
 
 /*-----------------------------------------Alignings */
 
+#ou-statement {
+    text-align: center;
+}
 
 #secure-form {
     text-align: center;
