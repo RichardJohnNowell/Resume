@@ -120,8 +120,7 @@ header {
 }
 
 .menuitem a:hover {
-        background-color: #5781ff;
-        color: #e5ff57;
+    color: #b2ec5d;
 }
 
 .menuitem a i {
