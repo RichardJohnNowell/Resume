@@ -8,7 +8,7 @@
     </p>
 <div align="center">
     <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-report-24-may-2024.jpg?raw=true">
-      <imag src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-report-24-may-2024.jpg?raw=true" width="350" height="275" title="page-speed-insights-report-24-may-2024" id="page-speed-insights-report-24-may-2024" alt="page-speed-insights-report-24-may-2024">
+      <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-report-24-may-2024.jpg?raw=true" width="350" height="275" title="page-speed-insights-report-24-may-2024" id="page-speed-insights-report-24-may-2024" alt="page-speed-insights-report-24-may-2024">
     </a>
 </div>
     <br>
