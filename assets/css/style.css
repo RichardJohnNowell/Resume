@@ -249,7 +249,7 @@ header {
 .timeline-item:after {
     background: #010203;
     border-radius: 12px;
-    content: '';
+    content: "";
     display: block;
     height: 12px;
     left: -6px;
