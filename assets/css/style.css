@@ -108,7 +108,8 @@ header {
 
 .menuitem a {
     color: #fefdfa;
-    height: 120px;
+    font-weight: 600;
+    height: 130px;
     text-decoration: none;
     width: 100%;
 }
