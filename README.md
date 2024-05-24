@@ -13,7 +13,7 @@
 </div>
     <br>
     <p align="center">
-    W3 CSS3 validation
+    W3 CSS3 validation.
     </p>
 <div align="center">
     <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-css-validation.jpg?raw=true">
@@ -22,20 +22,26 @@
 </div>
     <br>
     <p align="center">
-    W3 HTML validation for homepage
+    W3 HTML validation for homepage.
     </p>
 <div align="center">
   <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-homepage.jpg?raw=true">
     <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-homepage.jpg?raw=true" width="350" height="194" title="w3-html-validation-homepage" id="w3-html-validation-homepage" alt="w3-html-validation-homepage">
   </a>
 </div>
-
+    <br>
+    <p align="center">
+    W3 HTML validation for skills page.
+    </p>
 <div align="center">
   <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-skills-page.jpg?raw=true">
     <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-skills-page.jpg?raw=true" width="350" height="422" title="w3-html-validation-skills-page" id="w3-html-validation-skills-page" alt="w3-html-validation-skills-page">
   </a>
 </div>
-
+    <br>
+    <p align="center">
+    W3 HTML validation for contact page.
+    </p>
 <div align="center">
   <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-contact-page.jpg?raw=true">
     <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-contact-page.jpg?raw=true" width="350" height="207" title="w3-html-validation-contact-page" id="w3-html-validation-contact-page" alt="w3-html-validation-contact-page">
