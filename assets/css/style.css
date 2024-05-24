@@ -119,6 +119,11 @@ header {
     width: 100%;
 }
 
+.menuitem a:hover {
+        background-color: #5781ff;
+        color: #e5ff57;
+}
+
 .menuitem a i {
     color: #fafafa;
     display: block;
