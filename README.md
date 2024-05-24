@@ -35,7 +35,7 @@
     </p>
 <div align="center">
   <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-skills-page.jpg?raw=true">
-    <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-skills-page.jpg?raw=true" width="350" height="422" title="w3-html-validation-skills-page" id="w3-html-validation-skills-page" alt="w3-html-validation-skills-page">
+    <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-skills-page.jpg?raw=true" width="350" height="211" title="w3-html-validation-skills-page" id="w3-html-validation-skills-page" alt="w3-html-validation-skills-page">
   </a>
 </div>
     <br>
