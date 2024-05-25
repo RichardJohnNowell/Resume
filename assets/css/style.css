@@ -9,10 +9,6 @@
     background-color: #f4f4f4;
 }
 
-.bg-color-three-reasons {
-    background-color: #fefdfa;
-}
-
 .bg-color-work-history {
     background-color: #95a9fc;
 }
@@ -157,6 +153,10 @@ header {
 }
 
 /* ----------------------------------------Three Reasons */
+
+.bg-color-three-reasons {
+    background-color: #fefdfa;
+}
 
 .three-reasons-heading {
     margin-bottom: 15px;
