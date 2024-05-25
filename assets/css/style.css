@@ -1,10 +1,6 @@
 /*--------------------------------------------resume stylesheet */
 /*--------------------------------------------colors */
 
-.bg-color-name-title {
-    background-color: #ffdb59;
-}
-
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
@@ -71,6 +67,10 @@ p {
 }
 
 /*--------------------------------------------Heading*/
+
+.bg-color-name-title {
+    background-color: #ffdb59;
+}
 
 header {
     margin: 0;
