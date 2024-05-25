@@ -69,7 +69,10 @@ p {
 /*--------------------------------------------Heading*/
 
 .bg-color-name-title {
-    background-color: #ffdb59;
+    background: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
