@@ -80,7 +80,7 @@ header {
 }
 
 .heading {
-    margin-left: 50px;
+    margin-left: 3.125em;
 }
 
 .list-inline-item:not(:last-child) {
