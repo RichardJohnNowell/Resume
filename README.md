@@ -47,3 +47,8 @@
     <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/w3-html-validation-contact-page.jpg?raw=true" width="350" height="207" title="w3-html-validation-contact-page" id="w3-html-validation-contact-page" alt="w3-html-validation-contact-page">
   </a>
 </div>
+    <br>
+    <p align="center">
+    CREDIT: marble image from wiki Commons - https://commons.wikimedia.org/wiki/File:Marble_Kymi_Euboea_Greece.jpg .
+    </p>
+<!-- end -->
