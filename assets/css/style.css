@@ -241,7 +241,7 @@ header {
 }
 
 .timeline-item {
-    border-left: 1px solid;
+    border-left: 0.0625rem solid;
     color: #010203;
     padding: 4rem 2rem 0 2rem;
     position: relative;
