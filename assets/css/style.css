@@ -280,7 +280,9 @@ header {
 /*-----------------------------------------Alignings */
 
 #ou-statement {
+    height: 495px;
     text-align: center;
+    width: 350px;
 }
 
 #secure-form {
@@ -288,7 +290,9 @@ header {
 }
 
 #webdev-diploma {
+    height: 490px;
     text-align: center;
+    width: 350px;
 }
 
 /* ----------------------------------------Footer */
