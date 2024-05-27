@@ -59,7 +59,7 @@ p {
 .section-column {
     display: table-cell;
     float: none;
-    padding: 0 30px 30px;
+    padding: 0 1.875rem 1.875rem;
 }
 
 .uppercase {
@@ -80,7 +80,7 @@ header {
 }
 
 .heading {
-    margin-left: 3.125em;
+    margin-left: 3.125rem;
 }
 
 .list-inline-item:not(:last-child) {
@@ -92,7 +92,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 21.875em;
+    min-height: 21.875rem;
 }
 
 .menucontainer {
@@ -100,7 +100,7 @@ header {
 }
 
 .menuitem {
-    height: 120px;
+    height: 7.5rem;
     padding: 0;
     text-align: center;
 }
@@ -108,10 +108,10 @@ header {
 .menuitem a {
     color: #fefdfa;
     display: block;
-    font-size: 26px;
+    font-size: 1.625rem;
     font-weight: 600;
-    height: 130px;
-    padding-top: 17px;
+    height: 8.125rem;
+    padding-top: 1.0625rem;
     text-decoration: none;
     width: 100%;
 }
