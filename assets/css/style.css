@@ -177,12 +177,12 @@ header {
 .personal-info-item {
     clear: both;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
 }
 
 .personal-info-item .key {
-    margin-right: 21px;
-    padding-top: 2px;
+    margin-right: 1.3125rem;
+    padding-top: 0.125rem;
     vertical-align: top;
     width: 30%;
 }
@@ -190,7 +190,7 @@ header {
 .personal-info-item .key,
 .personal-info-item .value {
     display: inline-block;
-    padding-right: 8px;
+    padding-right: 0.5rem;
 }
 
 .personal-info-item .key p,
@@ -210,13 +210,13 @@ header {
 /* ----------------------------------------Skills */
 
 .progress {
-    height: 25px;
-    margin-bottom: 4px;
+    height: 1.5625rem;
+    margin-bottom: 0.25rem;
     position: relative;
 }
 
 .progress-section {
-    margin: 40px 20px;
+    margin: 2.5rem 1.25rem;
 }
 
 .progress-type {
