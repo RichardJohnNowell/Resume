@@ -38,8 +38,8 @@ h4 {
 .section-heading {
     font-family: "Nunito Sans";
     font-weight: 300;
-    margin-bottom: 40px;
-    margin-top: 25px;
+    margin-bottom: 2.5rem;
+    margin-top: 1.5625rem;
 }
 
 .inline-block {
