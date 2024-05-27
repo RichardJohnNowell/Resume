@@ -279,7 +279,7 @@ header {
 
 /*-----------------------------------------Alignings */
 
-#ou-statement {
+.ou-statement {
     height: 495px;
     text-align: center;
     width: 350px;
@@ -289,7 +289,7 @@ header {
     text-align: center;
 }
 
-#webdev-diploma {
+.webdev-diploma {
     height: 490px;
     text-align: center;
     width: 350px;
