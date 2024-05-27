@@ -279,10 +279,8 @@ header {
 
 /*-----------------------------------------Alignings */
 
-.ou-statement {
-    height: 495px;
+#ou-statement {
     text-align: center;
-    width: 350px;
 }
 
 #secure-form {
