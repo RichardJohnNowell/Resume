@@ -287,10 +287,8 @@ header {
     text-align: center;
 }
 
-.webdev-diploma {
-    height: 490px;
+#webdev-diploma {
     text-align: center;
-    width: 350px;
 }
 
 /* ----------------------------------------Footer */
