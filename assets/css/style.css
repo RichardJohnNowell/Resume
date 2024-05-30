@@ -22,6 +22,7 @@ body {
     background-image: url("https://144286628-491633316595147729.preview.editmysite.com/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: "Nunito Sans";
 }
 
 p {
@@ -39,7 +40,6 @@ h4 {
 }
 .history-heading,
 .section-heading {
-    font-family: "Nunito Sans";
     font-weight: 300;
     margin-bottom: 2.5rem;
     margin-top: 1.5625rem;
@@ -113,7 +113,6 @@ header {
     width: 100%;
 }
 .name {
-    font-family: "Nunito Sans";
     font-size: 2.875rem;
     font-weight: 600;
     margin-top: 3.125rem;
@@ -126,7 +125,6 @@ header {
     padding: 0;
 }
 .title {
-    font-family: "Nunito Sans";
     font-size: 2.25rem;
     font-weight: 400;
     margin-bottom: 5.625rem;
@@ -216,7 +214,6 @@ header {
 .timeline-item:before {
     content: attr(data-dates);
     display: block;
-    font-family: "Nunito Sans";
     font-size: 0.8rem;
     font-weight: 500;
     left: 2.5rem;
