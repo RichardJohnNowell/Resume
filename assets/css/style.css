@@ -50,14 +50,8 @@ h4 {
     text-transform: uppercase;
 }
 
-.bg-color-name-title {
-    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 /*---------------------------------------------heading */
+
 header {
     margin: 0;
 }
@@ -80,20 +74,11 @@ header {
 
 /*---------------------------------------------menu */
 
-.ui-menu-color-contact {
-    background-color: #26619c;
-}
-
-.ui-menu-color-download {
-    background-color: #3b7a57;
-}
-
-.ui-menu-color-home {
-    background-color: #a6122b;
-}
-
-.ui-menu-color-resume {
-    background-color: #54477b;
+.bg-color-name-title {
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .menucontainer {
@@ -154,6 +139,22 @@ header {
     margin-top: 1.25rem;
 }
 
+.ui-menu-color-contact {
+    background-color: #26619c;
+}
+
+.ui-menu-color-download {
+    background-color: #3b7a57;
+}
+
+.ui-menu-color-home {
+    background-color: #a6122b;
+}
+
+.ui-menu-color-resume {
+    background-color: #54477b;
+}
+
 /*----------------------------------------------three reasons */
 
 .three-reasons-heading {
@@ -165,6 +166,7 @@ header {
 }
 
 /*---------------------------------------------personal info */
+
 .bg-color-personal-info {
     background-color: #d0c07b;
 }
@@ -203,6 +205,7 @@ header {
 }
 
 /*---------------------------------------------progress */
+
 .progress {
     height: 1.5625rem;
     margin-bottom: 0.25rem;
@@ -224,6 +227,7 @@ header {
 
 /* ---------------------------------------------history */
 
+
 .bg-color-work-history {
     background-color: #95a9fc;
 }
@@ -239,6 +243,7 @@ header {
 }
 
 /*---------------------------------------------timeline */
+
 .timeline-item {
     border-left: 0.0625rem solid;
     color: #010203;
@@ -276,6 +281,7 @@ header {
 }
 
 /*---------------------------------------------alignments */
+
 #ou-statement {
     text-align: center;
 }
@@ -289,6 +295,7 @@ header {
 }
 
 /*---------------------------------------------footer */
+
 footer {
     background-color: #b2ec5d;
     margin: 0;
@@ -310,4 +317,4 @@ footer {
     max-width: 100%;
     min-width: 100%;
 }
-/*-----------------------------------------end of resume */
+/*---------------------------------------------end of resume */
