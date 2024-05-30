@@ -49,6 +49,7 @@ p {
     text-transform: uppercase;
 }
 .bg-color-name-title {
+    background-attachment: fixed;
     background: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -64,6 +65,7 @@ header {
     margin: 0;
 }
 .logo {
+    background-attachment: fixed;
     background: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-secure-laptop-1_orig.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -122,8 +124,8 @@ header {
     margin-top: 1.25rem;
 }
 .bg-color-three-reasons {
-    background: url("https://144286628-491633316595147729.preview.editmysite.com/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
-    background-position: center;
+    background-attachment: fixed;
+    background-image: url("https://144286628-491633316595147729.preview.editmysite.com/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
