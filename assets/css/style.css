@@ -1,3 +1,7 @@
+/*-------------------------------------resume start */
+
+/*-------------------------------------colors */
+
 .bg-color-personal-info {
     background-color: #d0c07b;
 }
@@ -17,12 +21,15 @@
     background-color: #54477b;
 }
 
+/*--------------------------------------body */
+
 body {
     background-attachment: fixed;
     background-image: url("https://144286628-491633316595147729.preview.editmysite.com/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "Nunito Sans";
+    font-weight: 400;
 }
 
 p {
@@ -30,6 +37,8 @@ p {
     margin: auto;
     width: 88%;
 }
+
+/* ----------------------------------------paddings/margins/text */
 
 h1,
 h2,
@@ -39,7 +48,6 @@ h4 {
 }
 .history-heading,
 .section-heading {
-    font-weight: 300;
     margin-bottom: 2.5rem;
     margin-top: 1.5625rem;
 }
@@ -64,6 +72,8 @@ h4 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/*---------------------------------------------heading */
 header {
     margin: 0;
 }
@@ -80,6 +90,8 @@ header {
     background-size: cover;
     min-height: 21.875rem;
 }
+
+/*-------------------------------------------------menu */
 .menucontainer {
     font-size: 0;
 }
@@ -129,15 +141,17 @@ header {
     margin-bottom: 5.625rem;
     margin-top: 1.25rem;
 }
-.bg-color-three-reasons {
 
-}
+/*-----------------------------------three reasons */
+
 .three-reasons-heading {
     margin-bottom: 0.9375rem;
 }
 .three-reasons-icon {
     font-size: 1.625rem;
 }
+
+/*-------------------------------------personal info */
 .personal-info-item {
     clear: both;
     display: block;
@@ -165,6 +179,8 @@ header {
     position: relative;
     width: 60%;
 }
+
+/*--------------------------------progress */
 .progress {
     height: 1.5625rem;
     margin-bottom: 0.25rem;
@@ -189,6 +205,8 @@ header {
     color: #010203;
     margin-bottom: 1.875rem;
 }
+
+/*------------------------------------------timeline */
 .timeline-item {
     border-left: 0.0625rem solid;
     color: #010203;
@@ -221,6 +239,8 @@ header {
     position: absolute;
     top: 3rem;
 }
+
+/*------------------------------------------alignments */
 #ou-statement {
     text-align: center;
 }
@@ -230,6 +250,8 @@ header {
 #webdev-diploma {
     text-align: center;
 }
+
+/*------------------------------------------footer */
 footer {
     background-color: #b2ec5d;
     margin: 0;
@@ -241,9 +263,12 @@ footer {
     padding-bottom: 0.5rem;
     text-align: center;
 }
+
+/*-----------------------------------------jotform */
 #JotFormIFrame-230943552692360 {
     border: none;
     height: 33.6875rem;
     max-width: 100%;
     min-width: 100%;
 }
+/*-----------------------------------------end of resume */
