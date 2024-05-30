@@ -204,27 +204,6 @@ header {
     width: 60%;
 }
 
-/*---------------------------------------------progress */
-
-.progress {
-    height: 1.5625rem;
-    margin-bottom: 0.25rem;
-    position: relative;
-}
-
-.progress-section {
-    margin: 2.5rem 1.25rem;
-}
-
-.progress-type {
-    background-color: #010203;
-    color: #fafafa;
-    font-weight: 400;
-    left: 0;
-    padding: 0.1875rem 1.875rem 0.125rem 0.625rem;
-    position: absolute;
-}
-
 /* ---------------------------------------------history */
 
 .bg-color-work-history {
