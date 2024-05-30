@@ -1,27 +1,6 @@
-/*-------------------------------------resume start */
+/*---------------------------------------------resume start */
 
-/*-------------------------------------colors */
-
-.bg-color-personal-info {
-    background-color: #d0c07b;
-}
-.bg-color-work-history {
-    background-color: #95a9fc;
-}
-.ui-menu-color-contact {
-    background-color: #26619c;
-}
-.ui-menu-color-download {
-    background-color: #3b7a57;
-}
-.ui-menu-color-home {
-    background-color: #a6122b;
-}
-.ui-menu-color-resume {
-    background-color: #54477b;
-}
-
-/*--------------------------------------body */
+/*---------------------------------------------body */
 
 body {
     background-attachment: fixed;
@@ -38,7 +17,7 @@ p {
     width: 88%;
 }
 
-/* ----------------------------------------paddings/margins/text */
+/* --------------------------------------------paddings/margins/text */
 
 h1,
 h2,
@@ -46,11 +25,13 @@ h3,
 h4 {
     margin: 0;
 }
+
 .history-heading,
 .section-heading {
     margin-bottom: 2.5rem;
     margin-top: 1.5625rem;
 }
+
 .inline-block {
     display: inline-block;
 }
@@ -58,14 +39,17 @@ h4 {
 .row-table {
     display: table;
 }
+
 .section-column {
     display: table-cell;
     float: none;
     padding: 0 1.875rem 1.875rem;
 }
+
 .uppercase {
     text-transform: uppercase;
 }
+
 .bg-color-name-title {
     background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
     background-position: center;
@@ -77,12 +61,15 @@ h4 {
 header {
     margin: 0;
 }
+
 .heading {
     margin-left: 3.125rem;
 }
+
 .list-inline-item:not(:last-child) {
     margin: 0;
 }
+
 .logo {
     background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-secure-laptop-1_orig.jpg");
     background-position: center;
@@ -91,15 +78,34 @@ header {
     min-height: 21.875rem;
 }
 
-/*-------------------------------------------------menu */
+/*---------------------------------------------menu */
+
+.ui-menu-color-contact {
+    background-color: #26619c;
+}
+
+.ui-menu-color-download {
+    background-color: #3b7a57;
+}
+
+.ui-menu-color-home {
+    background-color: #a6122b;
+}
+
+.ui-menu-color-resume {
+    background-color: #54477b;
+}
+
 .menucontainer {
     font-size: 0;
 }
+
 .menuitem {
     height: 7.5rem;
     padding: 0;
     text-align: center;
 }
+
 .menuitem a {
     color: #fefdfa;
     display: block;
@@ -110,9 +116,11 @@ header {
     text-decoration: none;
     width: 100%;
 }
+
 .menuitem a:hover {
     color: #adff2f;
 }
+
 .menuitem span {
     display: block;
     font-size: 1.125rem;
@@ -123,18 +131,22 @@ header {
     text-transform: uppercase;
     width: 100%;
 }
+
 .name {
     font-size: 2.875rem;
     font-weight: 600;
     margin-top: 3.125rem;
 }
+
 #nav {
     margin: 0;
 }
+
 #nav li {
     font-size: 1rem;
     padding: 0;
 }
+
 .title {
     font-size: 2.25rem;
     font-weight: 400;
@@ -142,53 +154,65 @@ header {
     margin-top: 1.25rem;
 }
 
-/*-----------------------------------three reasons */
+/*----------------------------------------------three reasons */
 
 .three-reasons-heading {
     margin-bottom: 0.9375rem;
 }
+
 .three-reasons-icon {
     font-size: 1.625rem;
 }
 
-/*-------------------------------------personal info */
+/*---------------------------------------------personal info */
+.bg-color-personal-info {
+    background-color: #d0c07b;
+}
+
 .personal-info-item {
     clear: both;
     display: block;
     margin-bottom: 1.25rem;
 }
+
 .personal-info-item .key {
     margin-right: 1.3125rem;
     padding-top: 0.125rem;
     vertical-align: top;
     width: 30%;
 }
+
 .personal-info-item .key,
 .personal-info-item .value {
     display: inline-block;
     padding-right: 0.5rem;
 }
+
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
 }
+
 .personal-info-item .key p {
     font-weight: 700;
 }
+
 .personal-info-item .value {
     position: relative;
     width: 60%;
 }
 
-/*--------------------------------progress */
+/*---------------------------------------------progress */
 .progress {
     height: 1.5625rem;
     margin-bottom: 0.25rem;
     position: relative;
 }
+
 .progress-section {
     margin: 2.5rem 1.25rem;
 }
+
 .progress-type {
     background-color: #010203;
     color: #fafafa;
@@ -197,26 +221,36 @@ header {
     padding: 0.1875rem 1.875rem 0.125rem 0.625rem;
     position: absolute;
 }
+
+/* ---------------------------------------------history */
+
+.bg-color-work-history {
+    background-color: #95a9fc;
+}
+
 .history-heading {
     color: #010203;
     margin-bottom: 3.125rem;
 }
+
 .history-items {
     color: #010203;
     margin-bottom: 1.875rem;
 }
 
-/*------------------------------------------timeline */
+/*---------------------------------------------timeline */
 .timeline-item {
     border-left: 0.0625rem solid;
     color: #010203;
     padding: 4rem 2rem 0 2rem;
     position: relative;
 }
+
 .timeline-item p {
     margin: 0;
     padding: 0;
 }
+
 .timeline-item:after {
     background: #010203;
     border-radius: 0.75rem;
@@ -228,6 +262,7 @@ header {
     top: 2.4rem;
     width: 0.75rem;
 }
+
 .timeline-item:before {
     content: attr(data-dates);
     display: block;
@@ -240,23 +275,26 @@ header {
     top: 3rem;
 }
 
-/*------------------------------------------alignments */
+/*---------------------------------------------alignments */
 #ou-statement {
     text-align: center;
 }
+
 #secure-form {
     text-align: center;
 }
+
 #webdev-diploma {
     text-align: center;
 }
 
-/*------------------------------------------footer */
+/*---------------------------------------------footer */
 footer {
     background-color: #b2ec5d;
     margin: 0;
     min-height: 6rem;
 }
+
 #websitecredit {
     color: #010203;
     font-size: 0.9rem;
@@ -264,7 +302,8 @@ footer {
     text-align: center;
 }
 
-/*-----------------------------------------jotform */
+/*---------------------------------------------jotform */
+
 #JotFormIFrame-230943552692360 {
     border: none;
     height: 33.6875rem;
