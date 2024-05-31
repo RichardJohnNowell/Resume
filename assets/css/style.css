@@ -80,6 +80,10 @@ header {
     background-size: cover;
 }
 
+.menucontainer {
+    font-size: 0;
+}
+
 .menuitem {
     height: 7.5rem;
     padding: 0;
