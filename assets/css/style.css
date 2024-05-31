@@ -260,6 +260,10 @@ header {
 
 /*---------------------------------------------alignments */
 
+#celta-cert {
+    text-align: center;
+}
+
 #ou-statement {
     text-align: center;
 }
