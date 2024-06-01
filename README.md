@@ -7,10 +7,19 @@
     Page Speed Insights results for the resume homepage (click to enlarge).
     </p>
 <div align="center">
-    <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-report-24-may-2024.jpg?raw=true">
-      <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-report-24-may-2024.jpg?raw=true" width="350" height="275" title="page-speed-insights-report-24-may-2024" id="page-speed-insights-report-24-may-2024" alt="page-speed-insights-report-24-may-2024">
-    </a>
+  <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-1-june-22024.jpg?raw=true">
+    <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/page-speed-insights-1-june-22024.jpg?raw=true" width="350" height="268" title="page-speed-insights-1-june-22024" id="page-speed-insights-1-june-22024" alt="page-speed-insights-1-june-22024">
+  </a>
 </div>
+    <br>
+    <p align="center">
+    WebPageTest-1-June.
+    </p>
+  <div align="center">
+      <a href="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/WebPageTest-1-June.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Resume/blob/main/assets/images/WebPageTest-1-June.jpg?raw=true" width="350" height="188" title="WebPageTest-1-June" id="WebPageTest-1-June" alt="WebPageTest-1-June">
+      <a>
+  </div>
     <br>
     <p align="center">
     W3 CSS3 validation.
