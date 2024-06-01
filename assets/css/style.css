@@ -57,7 +57,7 @@ header {
 }
 
 .heading {
-    margin-left: 1.9rem;
+    margin-left: 1.8125rem;
 }
 
 .list-inline-item:not(:last-child) {
@@ -196,7 +196,7 @@ header {
 }
 
 .personal-info-item .key p {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .personal-info-item .value {
