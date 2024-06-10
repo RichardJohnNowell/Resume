@@ -1,1 +1,217 @@
-.bg-color-name-title,.logo{background-position:center}.bg-color-name-title,.logo,body{background-repeat:no-repeat;background-size:cover}.menuitem span,.uppercase{text-transform:uppercase}.menuitem a,.name,.personal-info-item .key p{font-weight:600}#celta-cert,#ou-statement,#secure-form,#webdev-diploma,#websitecredit,.menuitem,.menuitem span{text-align:center}body{background-attachment:fixed;background-image:url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");font-family:"Nunito Sans";font-weight:400}p{color:#010203;margin:auto;width:88%}#nav,.list-inline-item:not(:last-child),.personal-info-item .key p,.personal-info-item .value p,h1,h2,h3,h4,header{margin:0}.history-heading,.section-heading{margin-bottom:2.5rem;margin-top:1.5625rem}.inline-block{display:inline-block}.row-table{display:table}.section-column{display:table-cell;float:none;padding:0 1.875rem 1.875rem}.heading{margin-left:1.8125rem}.logo{background-image:url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-main-image-29may_orig.jpg");min-height:16.4375rem}.bg-color-name-title{background-image:url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg")}.menucontainer{font-size:0}.menuitem{height:7.5rem;padding:0}.menuitem a{color:#fefdfa;display:block;font-size:1.625rem;height:8.125rem;padding-top:1.0625rem;text-decoration:none;width:100%}.menuitem a:hover{color:#adff2f}.menuitem span{display:block;font-size:1.125rem;font-weight:400;letter-spacing:.125rem;padding-top:.3125rem;width:100%}.name{font-size:2.875rem;margin-top:3.125rem}#nav li{font-size:1rem;padding:0}.title{font-size:2.25rem;font-weight:400;margin-bottom:5.625rem;margin-top:1.25rem}.ui-menu-color-contact{background-color:#26619c}.ui-menu-color-download{background-color:#3b7a57}.ui-menu-color-home{background-color:#a6122b}.ui-menu-color-resume{background-color:#54477b}.three-reasons-heading{margin-bottom:.9375rem}.three-reasons-icon{font-size:1.625rem}.bg-color-personal-info{background-color:#d0c07b}.personal-info-item{clear:both;display:block;margin-bottom:1.25rem}.personal-info-item .key{margin-right:1.3125rem;padding-top:.125rem;vertical-align:top;width:30%}.personal-info-item .key,.personal-info-item .value{display:inline-block;padding-right:.5rem}.personal-info-item .value{position:relative;width:60%}.bg-color-work-history{background-color:#95a9fc}.history-heading{color:#010203;margin-bottom:3.125rem}.history-items{color:#010203;margin-bottom:1.875rem}.timeline-item{border-left:.0625rem solid;color:#010203;padding:4rem 2rem 0;position:relative}.timeline-item p{margin:0;padding:0}.timeline-item:after{background:#010203;border-radius:.75rem;content:"";display:block;height:.75rem;left:-.375rem;position:absolute;top:2.4rem;width:.75rem}.timeline-item:before{content:attr(data-dates);display:block;font-size:.8rem;font-weight:500;left:2.5rem;margin:0;padding:0;position:absolute;top:3rem}footer{background-color:#b2ec5d;margin:0;min-height:6rem}#websitecredit{color:#010203;font-size:.9rem;padding-bottom:.5rem}#JotFormIFrame-230943552692360{border:none;height:33.6875rem;max-width:100%;min-width:100%}
+.bg-color-name-title,
+.logo {
+    background-position: center;
+}
+.bg-color-name-title,
+.logo,
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menuitem span,
+.uppercase {
+    text-transform: uppercase;
+}
+.menuitem a,
+.name,
+.personal-info-item .key p {
+    font-weight: 600;
+}
+#celta-cert,
+#ou-statement,
+#secure-form,
+#webdev-diploma,
+#websitecredit,
+.menuitem,
+.menuitem span {
+    text-align: center;
+}
+body {
+    background-attachment: fixed;
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
+    font-family: "Nunito Sans";
+    font-weight: 400;
+}
+p {
+    color: #010203;
+    margin: auto;
+    width: 88%;
+}
+#nav,
+.list-inline-item:not(:last-child),
+.personal-info-item .key p,
+.personal-info-item .value p,
+h1,
+h2,
+h3,
+h4,
+header {
+    margin: 0;
+}
+.history-heading,
+.section-heading {
+    margin-bottom: 2.5rem;
+    margin-top: 1.5625rem;
+}
+.inline-block {
+    display: inline-block;
+}
+.row-table {
+    display: table;
+}
+.section-column {
+    display: table-cell;
+    float: none;
+    padding: 0 1.875rem 1.875rem;
+}
+.heading {
+    margin-left: 1.8125rem;
+}
+.logo {
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-first-image-june10-comp_orig.jpg");
+    min-height: 16.4375rem;
+}
+.bg-color-name-title {
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
+}
+.menucontainer {
+    font-size: 0;
+}
+.menuitem {
+    height: 7.5rem;
+    padding: 0;
+}
+.menuitem a {
+    color: #fefdfa;
+    display: block;
+    font-size: 1.625rem;
+    height: 8.125rem;
+    padding-top: 1.0625rem;
+    text-decoration: none;
+    width: 100%;
+}
+.menuitem a:hover {
+    color: #adff2f;
+}
+.menuitem span {
+    display: block;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0.125rem;
+    padding-top: 0.3125rem;
+    width: 100%;
+}
+.name {
+    font-size: 2.875rem;
+    margin-top: 3.125rem;
+}
+#nav li {
+    font-size: 1rem;
+    padding: 0;
+}
+.title {
+    font-size: 2.25rem;
+    font-weight: 400;
+    margin-bottom: 5.625rem;
+    margin-top: 1.25rem;
+}
+.ui-menu-color-contact {
+    background-color: #26619c;
+}
+.ui-menu-color-download {
+    background-color: #3b7a57;
+}
+.ui-menu-color-home {
+    background-color: #a6122b;
+}
+.ui-menu-color-resume {
+    background-color: #54477b;
+}
+.three-reasons-heading {
+    margin-bottom: 0.9375rem;
+}
+.three-reasons-icon {
+    font-size: 1.625rem;
+}
+.bg-color-personal-info {
+    background-color: #d0c07b;
+}
+.personal-info-item {
+    clear: both;
+    display: block;
+    margin-bottom: 1.25rem;
+}
+.personal-info-item .key {
+    margin-right: 1.3125rem;
+    padding-top: 0.125rem;
+    vertical-align: top;
+    width: 30%;
+}
+.personal-info-item .key,
+.personal-info-item .value {
+    display: inline-block;
+    padding-right: 0.5rem;
+}
+.personal-info-item .value {
+    position: relative;
+    width: 60%;
+}
+.bg-color-work-history {
+    background-color: #95a9fc;
+}
+.history-heading {
+    color: #010203;
+    margin-bottom: 3.125rem;
+}
+.history-items {
+    color: #010203;
+    margin-bottom: 1.875rem;
+}
+.timeline-item {
+    border-left: 0.0625rem solid;
+    color: #010203;
+    padding: 4rem 2rem 0;
+    position: relative;
+}
+.timeline-item p {
+    margin: 0;
+    padding: 0;
+}
+.timeline-item:after {
+    background: #010203;
+    border-radius: 0.75rem;
+    content: "";
+    display: block;
+    height: 0.75rem;
+    left: -0.375rem;
+    position: absolute;
+    top: 2.4rem;
+    width: 0.75rem;
+}
+.timeline-item:before {
+    content: attr(data-dates);
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 500;
+    left: 2.5rem;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 3rem;
+}
+footer {
+    background-color: #b2ec5d;
+    margin: 0;
+    min-height: 6rem;
+}
+#websitecredit {
+    color: #010203;
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+#JotFormIFrame-230943552692360 {
+    border: none;
+    height: 33.6875rem;
+    max-width: 100%;
+    min-width: 100%;
+}
