@@ -17,15 +17,14 @@ body {
 .personal-info-item .key p {
     font-weight: 600;
 }
-#celta-cert,
-#ou-statement,
+
 #secure-form,
-#webdev-diploma,
 #websitecredit,
 .menuitem,
 .menuitem span {
     text-align: center;
 }
+
 body {
     background-attachment: fixed;
     background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
@@ -167,6 +166,9 @@ header {
     color: #010203;
     margin-bottom: 1.875rem;
 }
+
+/*--------------------------------------timeline */
+
 .timeline-item {
     border-left: 0.0625rem solid;
     color: #010203;
@@ -203,18 +205,21 @@ header {
 /*----------------------------------------sizing */
 
 #webdev-diploma {
-    width: 21.875rem;
     height: 30.625rem;
+    text-align: center;
+    width: 21.875rem;
 }
 
 #ou-statement {
-    width: 21.875rem;
     height: 30.9375rem;
+    text-align: center;
+    width: 21.875rem;
 }
 
 #celta-cert {
-    width: 21.875rem;
     height: 30.0625rem;
+    text-align: center;
+    width: 21.875rem;
 }
 
 /*-----------------------------------------footer */
@@ -225,14 +230,22 @@ footer {
     margin: 0;
     min-height: 6rem;
 }
+
+/*------------------------------------------website credit */
+
 #websitecredit {
     color: #010203;
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
+
+/*------------------------------------------jotform */
+
 #JotFormIFrame-230943552692360 {
     border: none;
     height: 33.6875rem;
     max-width: 100%;
     min-width: 100%;
 }
+
+/*------------------------------------------end */
