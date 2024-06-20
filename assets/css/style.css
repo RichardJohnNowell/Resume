@@ -199,6 +199,27 @@ header {
     position: absolute;
     top: 3rem;
 }
+
+/*----------------------------------------sizing */
+
+#webdev-diploma {
+    width: 21.875rem;
+    height: 30.625rem;
+}
+
+#ou-statement {
+    width: 21.875rem;
+    height: 30.9375rem;
+}
+
+#celta-cert {
+    width: 21.875rem;
+    height: 30.0625rem;
+}
+
+/*-----------------------------------------footer */
+
+
 footer {
     background-color: #b2ec5d;
     margin: 0;
