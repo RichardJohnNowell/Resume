@@ -181,6 +181,15 @@ header {
     margin-bottom: 1.875rem;
 }
 
+/*--------------------------------------flexibles */
+
+.flex-container {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
 /*--------------------------------------timeline */
 
 .timeline-item {
