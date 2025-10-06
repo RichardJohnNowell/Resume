@@ -43,7 +43,7 @@ body {
 
 body {
     background-attachment: fixed;
-    background-image: url("https://github.com/RichardJohnNowell/Resume/blob/main/assets/new-images-sept-25/resume-marble-image.jpg");
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-marble-image_orig.jpg");
     font-family: "Nunito Sans";
     font-weight: 400;
 }
@@ -83,11 +83,11 @@ header {
     margin-left: 1.8125rem;
 }
 .logo {
-    background-image: url("https://github.com/RichardJohnNowell/Resume/blob/main/assets/new-images-sept-25/resume-home-comp.jpg");
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-first-image-june10-comp_orig.jpg");
     min-height: 16.4375rem;
 }
 .bg-color-name-title {
-    background-image: url("https://github.com/RichardJohnNowell/Resume/blob/main/assets/new-images-sept-25/resume-gold-scarf.jpg");
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/resume-gold-scarf_orig.jpg");
 }
 .menucontainer {
     font-size: 0;
